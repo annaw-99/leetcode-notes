@@ -12,5 +12,5 @@ public boolean containsDuplicate(int[] nums) {
     return false;
 }
 ```
-Time Complexity = O(n)
+Time Complexity = O(n) <br>
 Space Complexity = O(n)

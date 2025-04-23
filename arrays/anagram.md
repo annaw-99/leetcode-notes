@@ -21,7 +21,7 @@ public boolean isAnagram(String s, String t) {
     return true;
 }
 ```
-Time Complexity = O(nlogn + mlogm)
+Time Complexity = O(nlogn + mlogm) <br>
 Space Complexity = O(n + m)
 
 Solution #2: hash map
@@ -42,5 +42,5 @@ public boolean isAnagram(String s, String t) {
     return mapS.equals(mapT);
 }
 ```
-Time Complexity = O(n + m)
+Time Complexity = O(n + m) <br>
 Space Complexity = O(1)
