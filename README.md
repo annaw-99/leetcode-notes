@@ -11,10 +11,11 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 
 #### Arrays and Hashing
 
-| Problem | Difficulty | Solution | Time | Space | Notes |
-|---------|------------|------|-------|-------|-------|
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](arrays/contains.md) |O(n) | O(n) |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](arrays/two-sum.md) |O(n) | O(n) | Store complements in hash map |
+| Problem | Difficulty | Solution | Notes |
+|---------|------------|--------|-------|
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](arrays/contains.md) |  |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Solution](arrays/anagram.md) |  |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](arrays/two-sum.md) | |
 
 #### Two Pointers
 
