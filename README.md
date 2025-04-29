@@ -19,7 +19,13 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 
 #### Two Pointers
 
+| Problem | Difficulty | Solution | Notes |
+|---------|------------|--------|-------|
+
 #### Sliding Window
+
+| Problem | Difficulty | Solution | Notes |
+|---------|------------|--------|-------|
 
 
 ### 📝 Usage
