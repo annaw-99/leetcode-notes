@@ -16,7 +16,9 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](arrays/contains.md) |  |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Solution](arrays/anagram.md) |  |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](arrays/two-sum.md) | |
-| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](arrays/two-sum.md) | |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](arrays/group-anagrams.md) | |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](arrays/top-k.md) | |
+
 
 
 #### Two Pointers
