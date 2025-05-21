@@ -19,6 +19,8 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](arrays/group-anagrams.md) | |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](arrays/top-k.md) | |
 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [Solution](arrays/encode-decode.md) | |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](arrays/product-except.md) | |
+
 
 
 

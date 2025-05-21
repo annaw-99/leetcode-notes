@@ -34,5 +34,5 @@ public class Codec {
     }
 }
 ```
-Time Complexity =  <br>
-Space Complexity = 
+Time Complexity =  O(n) (both)<br>
+Space Complexity = O(n) (both)
