@@ -18,6 +18,7 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](arrays/two-sum.md) | |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](arrays/group-anagrams.md) | |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](arrays/top-k.md) | |
+| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [Solution](arrays/encode-decode.md) | |
 
 
 
@@ -37,4 +38,4 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 Feel free to fork this repo for your own usage!
 
 
-> Last updated: April 23, 2025
+> Last updated: May 20, 2025
