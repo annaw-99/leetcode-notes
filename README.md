@@ -20,14 +20,16 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](arrays/top-k.md) | |
 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [Solution](arrays/encode-decode.md) | |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](arrays/product-except.md) | |
-
-
-
+| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | [Solution](arrays/valid-sudoku.md) | need to update |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Solution](arrays/consecutive-sequence.md) | |
 
 #### Two Pointers
 
 | Problem | Difficulty | Solution | Notes |
 |---------|------------|--------|-------|
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | [Solution](arrays/valid-palidrome.md) |  |
+| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Medium | [Solution](arrays/two-sum-ii.md) |  |
+
 
 #### Sliding Window
 
@@ -40,4 +42,4 @@ This repo contains notes for [NeetCode 150](https://neetcode.io/practice?tab=nee
 Feel free to fork this repo for your own usage!
 
 
-> Last updated: May 20, 2025
+> Last updated: May 27, 2025
